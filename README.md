@@ -31,8 +31,9 @@ I spent the majority of 2016 on a world trip to explore new places and seek new 
 
 ## Projects
 
-Project | Week | Technologies Used | Link
-| [RockPaperScissors](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Ruby & Sinatra; HTML & CSS; Tested with RSpec & Capybara | n/a |
+Project | Week | Team or Solo | Technologies Used | Link
+--- | --- | --- | ---
+| [RockPaperScissors](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Solo | Ruby & Sinatra; HTML & CSS; Tested with RSpec & Capybara | n/a |
 
 ## Education
 
