@@ -1,6 +1,6 @@
 ## Timothy Robinson
 
-[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) |
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) |
 
 I am an enthusiastic, hardworking individual with a passion for clear and clever programming and an undergraduate degree in Film and English Literature Studies from the University of East Anglia.
 
@@ -28,6 +28,11 @@ After graduating from Makers' Academy, I'm looking to begin an exciting career i
 #### Adventurousness
 
 I spent the majority of 2016 on a world trip to explore new places and seek new adventures. It was during this trip that I discovered my passion for programming and planned to pursue that as my next course of action after returning home. I'm always looking to try new things and involve myself in new experiences.
+
+## Projects
+
+Project | Week | Technologies Used | Link
+| [RockPaperScissors](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Ruby & Sinatra; HTML & CSS; Tested with RSpec & Capybara | n/a |
 
 ## Education
 
