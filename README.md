@@ -32,8 +32,12 @@ I spent the majority of 2016 on a world trip to explore new places and seek new 
 ## Projects
 
 Project | Week | Team or Solo | Technologies Used | Link
---- | --- | --- | ---
-| [RockPaperScissors](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Solo | Ruby & Sinatra; HTML & CSS; Tested with RSpec & Capybara | n/a |
+--- | --- | --- | --- | ---
+| [Onbord](https://github.com/ilarne/team-whiteboard) | Week 11-12  | Team of 4 | Javascript & Node.js, jQuery, HTML & CSS, Tested with Mocha and Testcafe | [link](http://www.onbord.live) |
+| [Exchangeagram](https://github.com/TimRobinson1/instagram-challenge) | Week 8 | Solo | Ruby on Rails, HTML & CSS, Javascript, Tested with Rspec & Capybara, Database: Postgresql | n/a |
+| [Bowling Challenge](https://github.com/TimRobinson1/bowling-challenge) | Week 5 | Solo | Javascript, jQuery, HTML & CSS; Tested with Jasmine | n/a |
+| [Chitter Challenge](https://github.com/TimRobinson1/chitter-challenge) | Week 4 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara, Database: PostgreSQL, ORM: Datamapper, Encryption: Bcrypt. Deployed using Heroku. | [link](https://chitter-sphere.herokuapp.com/home) |
+| [Rock, Paper, Politics](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara | n/a |
 
 ## Education
 
@@ -56,7 +60,6 @@ Project | Week | Team or Solo | Technologies Used | Link
 
 - Leaving Certificate qualifications (Irish A-level equivalent), for a total of eight subjects.
 - Involved in various school community outreach programs, including taking part in an aid-related trip to a sister school in Kenya, Bombi Primary School, in 2011.
-- Prefect and active member of the school committee.
 
 
 ## Experience
