@@ -31,10 +31,12 @@ I spent the majority of 2016 on a world trip to explore new places and seek new 
 
 ## Projects
 
-Project | Week | Team or Solo | Technologies Used | Link
+Project | Makers Academy Week | Team or Solo | Technologies Used | Link
 --- | --- | --- | --- | ---
 | [Onbord](https://github.com/ilarne/team-whiteboard) | Week 11-12  | Team of 4 | Javascript & Node.js, jQuery, HTML & CSS, Tested with Mocha and Testcafe | [link](http://www.onbord.live) |
+| [Drink Aware App](https://github.com/TimRobinson1/quiz-app) | Week 9  | Team of 4 | React-Native, Tested with Jest and Enzyme | n/a |
 | [Exchangeagram](https://github.com/TimRobinson1/instagram-challenge) | Week 8 | Solo | Ruby on Rails, HTML & CSS, Javascript, Tested with Rspec & Capybara, Database: Postgresql | n/a |
+| [Tigai Testing Framework](https://github.com/TimRobinson1/Notes-App) | Week 7 | Team of 4 | Javascript, HTML & CSS, Self-tested with Tigai | n/a |
 | [Bowling Challenge](https://github.com/TimRobinson1/bowling-challenge) | Week 5 | Solo | Javascript, jQuery, HTML & CSS; Tested with Jasmine | n/a |
 | [Chitter Challenge](https://github.com/TimRobinson1/chitter-challenge) | Week 4 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara, Database: PostgreSQL, ORM: Datamapper, Encryption: Bcrypt. Deployed using Heroku. | [link](https://chitter-sphere.herokuapp.com/home) |
 | [Rock, Paper, Politics](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara | n/a |
