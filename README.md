@@ -1,12 +1,25 @@
 ## Timothy Robinson
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
 
 I am an enthusiastic, hardworking individual with a passion for clear and clever programming and an undergraduate degree in Film and English Literature Studies from the University of East Anglia.
 
 After discovering the world of programming to be stimulating both intellectually and creatively, I began teaching myself basic Javascript, CSS and HTML. Once I felt confident it was a career path I was eager to pursue, I decided that attending Makers Academy was the most logical and practical step forwards.
 
 After graduating from Makers' Academy, I'm looking to begin an exciting career in web development in a collaborative and team-based environment and to continue learning and advancing my skills as a developer.
+
+## Projects
+
+Project | Makers Academy Week | Team or Solo | Technologies Used | Link
+--- | --- | --- | --- | ---
+| [Onbord](https://github.com/ilarne/team-whiteboard) | Week 11-12  | Team of 4 | Javascript & Node.js, jQuery, HTML & CSS, Tested with Mocha and Testcafe | [link](http://www.onbord.live) |
+| [Conway's Game of Life](https://github.com/ilarne/team-whiteboard) | Week 10 | Solo | Ruby & Sinatra, Javascript, HTML & CSS, Tested with Rspec | n/a |
+| [Drink Aware App](https://github.com/TimRobinson1/quiz-app) | Week 9  | Team of 4 | React-Native, Tested with Jest and Enzyme | n/a |
+| [Exchangeagram](https://github.com/TimRobinson1/instagram-challenge) | Week 8 | Solo | Ruby on Rails, HTML & CSS, Javascript, Tested with Rspec & Capybara, Database: Postgresql | n/a |
+| [Tigai Testing Framework](https://github.com/TimRobinson1/Notes-App) | Week 7 | Team of 4 | Javascript, HTML & CSS, Self-tested with Tigai | n/a |
+| [Bowling Challenge](https://github.com/TimRobinson1/bowling-challenge) | Week 5 | Solo | Javascript, jQuery, HTML & CSS; Tested with Jasmine | n/a |
+| [Chitter Challenge](https://github.com/TimRobinson1/chitter-challenge) | Week 4 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara, Database: PostgreSQL, ORM: Datamapper, Encryption: Bcrypt. Deployed using Heroku. | [link](https://chitter-sphere.herokuapp.com/home) |
+| [Rock, Paper, Politics](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara | n/a |
 
 ## Skills
 
@@ -25,22 +38,9 @@ After graduating from Makers' Academy, I'm looking to begin an exciting career i
 - My diligence whilst proof-reading and pedantic eye for grammar and syntax errors in English text transfer very effectively to proof-reading and debugging sections of code.
 - I embarked on a world trip in 2016 for a total duration of seven months. Whilst in transit I was required to keep all of my documentation in order and apply for various visas en route. My organisational skills were integral in ensuring a smooth and unhindered trip.
 
-#### Adventurousness
+#### Willingness to learn & adventurousness
 
 I spent the majority of 2016 on a world trip to explore new places and seek new adventures. It was during this trip that I discovered my passion for programming and planned to pursue that as my next course of action after returning home. I'm always looking to try new things and involve myself in new experiences.
-
-## Projects
-
-Project | Makers Academy Week | Team or Solo | Technologies Used | Link
---- | --- | --- | --- | ---
-| [Onbord](https://github.com/ilarne/team-whiteboard) | Week 11-12  | Team of 4 | Javascript & Node.js, jQuery, HTML & CSS, Tested with Mocha and Testcafe | [link](http://www.onbord.live) |
-| [Conway's Game of Life](https://github.com/ilarne/team-whiteboard) | Week 10 | Solo | Ruby & Sinatra, Javascript, HTML & CSS, Tested with Rspec | n/a |
-| [Drink Aware App](https://github.com/TimRobinson1/quiz-app) | Week 9  | Team of 4 | React-Native, Tested with Jest and Enzyme | n/a |
-| [Exchangeagram](https://github.com/TimRobinson1/instagram-challenge) | Week 8 | Solo | Ruby on Rails, HTML & CSS, Javascript, Tested with Rspec & Capybara, Database: Postgresql | n/a |
-| [Tigai Testing Framework](https://github.com/TimRobinson1/Notes-App) | Week 7 | Team of 4 | Javascript, HTML & CSS, Self-tested with Tigai | n/a |
-| [Bowling Challenge](https://github.com/TimRobinson1/bowling-challenge) | Week 5 | Solo | Javascript, jQuery, HTML & CSS; Tested with Jasmine | n/a |
-| [Chitter Challenge](https://github.com/TimRobinson1/chitter-challenge) | Week 4 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara, Database: PostgreSQL, ORM: Datamapper, Encryption: Bcrypt. Deployed using Heroku. | [link](https://chitter-sphere.herokuapp.com/home) |
-| [Rock, Paper, Politics](https://github.com/TimRobinson1/rps-challenge) | Week 3 | Solo | Ruby & Sinatra, HTML & CSS, Tested with RSpec & Capybara | n/a |
 
 ## Education
 
