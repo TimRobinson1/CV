@@ -1,6 +1,6 @@
 ## Timothy Robinson
 
-[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests) |
+[Projects](#projects) | [Skills](#skills) | [Education](#education) | [Experience](#experience) | [Interests](#interests)
 
 I am an enthusiastic, hardworking individual with a passion for clear and clever programming and an undergraduate degree in Film and English Literature Studies from the University of East Anglia.
 
