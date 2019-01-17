@@ -4,11 +4,11 @@
 
 I am an enthusiastic, hardworking individual with a passion for clear and clever programming and an undergraduate degree in Film and English Literature Studies from the University of East Anglia.
 
-After discovering the world of programming to be stimulating both intellectually and creatively, I began teaching myself basic Javascript, CSS and HTML. Once I felt confident it was a career path I was eager to pursue, I decided that attending Makers Academy was the most logical and practical step forwards.
+After discovering the world of programming to be stimulating both intellectually and creatively, I began teaching myself basic Javascript, CSS and HTML. Once I felt confident it was a career path I was eager to pursue, I decided that attending Makers Academy was the most practical step forwards.
 
-After graduating from Makers' Academy, I'm looking to begin an exciting career in web development in a collaborative and team-based environment and to continue learning and advancing my skills as a developer.
+After graduating from Makers' Academy, I joined the development team at Nudj, where I continued to learn and improve my development skills, and gained a familiarity with tools such as React and Redux. I'm looking to continue my career in web development in a collaborative and team-based environment and to continue learning and advancing my skills as a developer.
 
-## Projects
+## Makers Academy Projects
 
 Project | Makers Academy Week | Team or Solo | Technologies Used | Link
 --- | --- | --- | --- | ---
@@ -44,13 +44,19 @@ I spent the majority of 2016 on a world trip to explore new places and seek new 
 
 ## Education
 
+#### Nudj (June 2017 to January 2019)
+
+- Worked as a full-stack React developer
+- Took on the responsibilities of being part of a three-person development team
+- React, Redux, GraphQL, ArangoDB, Flow
+
 #### Makers Academy (March 2017 to June 2017)
 
 - Curiosity and passion for code and pair programming
 - Independent learner and problem-solver
 - OOP, TDD, SOLID, MVC, DDD
 - Software Craftsmanship
-- Ruby, Rails, Javascript, Node.js, Angular.js
+- Ruby, Rails, Javascript, Node.js
 - Rspec, Jasmine, Mocha
 
 #### University of East Anglia (UEA) - 2012 to 2015
@@ -67,11 +73,19 @@ I spent the majority of 2016 on a world trip to explore new places and seek new 
 
 ## Experience
 
+**Nudj** (2017 to 2019)
+
+*Software Engineer*
+
+I joined Nudj following the completion of Makers Academy and garnered a large amount of experience working as a full-stack developer on a React web app in a small team. My responsibilities included making full production deployments and making sure that work continued as usual when our CTO was absent.
+
+My time at Nudj gave me the opportunity to continue enhancing my development skills. As the team was three people at its peak, I learned a large amount in a small space of time.
+
 **Oakfield Park** (2015 to 2017)
 
 *Social Media and Video Producer*
 
-My previous working experience has taken place in Donegal, Ireland. I've spent my time working at my family garden and parkland, Oakfield Park, and have invested my efforts into promoting it and helping to maintain Oakfield's consistent social media presence.
+Prior to working as a developer, I was working in Donegal, Ireland. I've spent my time working at my family garden and parkland, Oakfield Park, and have invested my efforts into promoting it and helping to maintain Oakfield's consistent social media presence.
 
 Putting my film and editing skills to work, I have worked hard to shoot, edit and produce various promotional videos. Many of these can be found on Oakfield Park's Facebook page.
 
